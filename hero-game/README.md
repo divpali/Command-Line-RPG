@@ -1,11 +1,7 @@
-# Hero Game
-
 
 ## Project overview
-
-### Architecture and technologies used
-
-- Java 8
+- A command line based role playing game.
+- Used Java 8 to code
 
 ### Build and run
 
@@ -29,6 +25,7 @@ Go, defeat monsters, find the houses, reveal the enigmas, get the keys and save 
 ### Commands
 
 The commands are really basic, most of them you will be shown in the console. For example, to go to the North just type n, for South just type s and so on.
+Hint : If you want to get into some fight club action press 'e' (east)
 
 
 ### Game Options
